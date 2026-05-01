@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Hansika Jain 👩‍💻
 
-<!--
-**Hansikajain05/Hansikajain05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & DS) | CGC Mohali
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* C/C++
+
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Web Development
+
+## 📌 Projects
+
+* ATM System (Python)
+* Mini Game
+* Library Management System
+
+## 🎯 Goal
+
+To become a Data analytics
+
+## 📫 Connect with me
+
+* LinkedIn - www.linkedin.com/in/hansika-jain-286bb637a
+
