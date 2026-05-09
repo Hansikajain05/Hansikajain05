@@ -1,6 +1,6 @@
 # Hi, I'm Hansika Jain 👩‍💻
 
-🎓 B.Tech CSE (AI & DS) | CGC Mohali
+🎓 B.Tech (AI & DS) | CGC Mohali
 
 ## 🚀 Skills
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Goal
 
-To become a Data analytics
+To become a Data analytics and data scientist
 
 ## 📫 Connect with me
 
